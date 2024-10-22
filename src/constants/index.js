@@ -32,7 +32,7 @@ export const feedback = [
   {
     id: "feedback-1",
     content:
-      "Money is only a tool. It will take you wherever you wish, but it will not replace you as the driver.",
+      "The matte finish gives it a premium look, while the lightweight frame makes it easy to carry and handle. The ergonomic handlebars and adjustable seat ensure a comfortable ride for users of different heights. However, the included saddle could be more cushioned for longer rides.",
     name: "John Dosan",
     title: "Founder & Leader",
     img: people1,
@@ -40,7 +40,7 @@ export const feedback = [
   {
     id: "feedback-2",
     content:
-      "Money makes your life easier. If you're lucky to have it, you're lucky.",
+      "The front suspension does a good job of absorbing minor bumps, making the ride smoother, but it could struggle on rougher terrains.",
     name: "Mark Wood",
     title: "Founder & Leader",
     img: people2,
@@ -48,7 +48,7 @@ export const feedback = [
   {
     id: "feedback-3",
     content:
-      "It is usually people in the money business, finance, and international trade that are really rich.",
+      "The bike’s handling is precise, especially around sharp turns, making it a great option for city commuters. However, for off-road trails or mountain paths, a more advanced suspension system might be necessary.",
     name: "Kevin Pereira",
     title: "Founder & Leader",
     img: people3,
