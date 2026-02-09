@@ -84,7 +84,7 @@ npm run preview
 - GitHub: [@hironkanishka](https://linkedin.com/in/hiron-kanishka)
 - LinkedIn: [Hiron Kanishka](https://www.linkedin.com/in/hiron-kanishka/)
 
-## Feedback and Contributions
+## Feedback and Contributions 
 
 If you have any feedback, suggestions, or would like to contribute to this project, your involvement is highly valued. Feel free to open an issue or submit a pull request with your ideas and enhancements. Remember, this template is a starting point, and the true magic lies in making it your own. Enjoy the journey of creating a stunning portfolio that represents your unique talents and accomplishments!
 
