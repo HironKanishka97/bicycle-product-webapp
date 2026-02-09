@@ -56,7 +56,7 @@ This will install all the packages and dependencies used in the project.
 ## Usage
 
 - Run the following command to start a local server:
-
+ 
 ```
 npm run dev
 ```
